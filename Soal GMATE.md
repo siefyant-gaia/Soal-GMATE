@@ -1,6 +1,6 @@
 
 
-![image](cover.PNG)
+![image](cover.png)
 
 
 G-MATe
