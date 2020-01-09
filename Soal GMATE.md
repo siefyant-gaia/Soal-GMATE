@@ -1,28 +1,28 @@
 
 
-<center>![image](cover.PNG)</center>
+![image](cover.PNG)
 
 
-<center>G-MATe</center>
+G-MATe
 ---
-<center>GAIA Management Aptitude Test</center>
+GAIA Management Aptitude Test
 ---
 
 ### Instruksi Umum
 
-<p style='text-align: justify;'>Pada halaman-halaman berikut ini Anda akan menemukan sejumlah kondisi yang diikuti dengan pertanyaan mengenai situasi-situasi manajemen terkait dengan kondisi tersebut. 
+Pada halaman-halaman berikut ini Anda akan menemukan sejumlah kondisi yang diikuti dengan pertanyaan mengenai situasi-situasi manajemen terkait dengan kondisi tersebut. 
 Jumlah kondisi secara keseluruhan ada 22, setiap kondisi akan diikuti oleh 1 hingga 5 pertanyaan. Total pertanyaan ada 45.
-Tugas Anda adalah untuk menilai situasi tersebut dan memberi respon yang menurut Anda tepat untuk situasi atau pertanyaan tersebut, dengan cara memberikan tanda silang ( X ) pada lembar jawab yang telah tersedia.</p> 
+Tugas Anda adalah untuk menilai situasi tersebut dan memberi respon yang menurut Anda tepat untuk situasi atau pertanyaan tersebut, dengan cara memberikan tanda silang ( X ) pada lembar jawab yang telah tersedia.
 
 ![image](instruksi.png)
 
-<p style='text-align: justify;'>Apabila pilihan Anda salah, maka hapuslah pilihan tersebut dan silanglah pada pilihan yang benar.</p>
+Apabila pilihan Anda salah, maka hapuslah pilihan tersebut dan silanglah pada pilihan yang benar.
 
-<p style='text-align: justify;'>Anda tidak diperbolehkan membuat coretan apapun dalam buku soal. Anda dapat menggunakan kertas buram untuk membuat catatan, menghitung maupun memperkirakan jawaban yang akan Anda berikan.</p> 
+Anda tidak diperbolehkan membuat coretan apapun dalam buku soal. Anda dapat menggunakan kertas buram untuk membuat catatan, menghitung maupun memperkirakan jawaban yang akan Anda berikan.
 
-<p style='text-align: justify;'>Jika Anda punya pertanyaan, ajukanlah sekarang. Pastikan bahwa Anda sudah memahami instruksi yang ada pada saat mulai mengerjakan. Dalam tugas ini terkandung 45 soal yang membutuhkan waktu selama 75 menit.</p>
+Jika Anda punya pertanyaan, ajukanlah sekarang. Pastikan bahwa Anda sudah memahami instruksi yang ada pada saat mulai mengerjakan. Dalam tugas ini terkandung 45 soal yang membutuhkan waktu selama 75 menit.
 
-<p style='text-align: justify;'>Cobalah untuk bekerja secepat dan seakurat mungkin. Jangan terpaku pada 1 soal jika soal tersebut dirasa sulit, cobalah untuk mengerjakan soal lain terlebih dahulu.</p> 
+Cobalah untuk bekerja secepat dan seakurat mungkin. Jangan terpaku pada 1 soal jika soal tersebut dirasa sulit, cobalah untuk mengerjakan soal lain terlebih dahulu.
 
 Bukalah halaman berikutnya dan mulailah bekerja.
 
@@ -33,7 +33,7 @@ GANTI HALAMAN
 
 ### Pertanyaan 1
 
-<p style='text-align: justify;'>Jika berwisata ke Taman Bunga Indonusa adalah insentif yang nilainya terendah, kepada siapa saja insentif tersebut akan Anda berikan? </p>
+Jika berwisata ke Taman Bunga Indonusa adalah insentif yang nilainya terendah, kepada siapa saja insentif tersebut akan Anda berikan? 
 
 Pilihan Jawaban
 
@@ -49,7 +49,7 @@ E. Kelly, Sandra, Sunarto, Truno
 
 ### Pertanyaan 2
 
-<p style='text-align: justify;'>Jika tiga peringkat teratas paket ke luar negeri adalah ke Amerika Serikat (sudah diberikan ke Muladi), ke Perancis (sudah diberikan ke Petra), dan ke Inggris; siapakah yang berhak menerima paket ke Inggris? </p>
+Jika tiga peringkat teratas paket ke luar negeri adalah ke Amerika Serikat (sudah diberikan ke Muladi), ke Perancis (sudah diberikan ke Petra), dan ke Inggris; siapakah yang berhak menerima paket ke Inggris? 
 
 Pilihan Jawaban
 
@@ -65,7 +65,7 @@ E. Chris
 
 ### Pertanyaan 3
 
-<p style='text-align: justify;'>Jika tiga paket ke luar kota peringkatnya adalah: ke Bali dan Lombok selama 2 minggu, kemudian ke Bali 1 minggu dan ke Bali 3 hari, siapa saja yang berhak menerima paket tersebut sesuai dengan urutan peringkatnya? (urutan nama menunjukkan peringkat) </p>
+Jika tiga paket ke luar kota peringkatnya adalah: ke Bali dan Lombok selama 2 minggu, kemudian ke Bali 1 minggu dan ke Bali 3 hari, siapa saja yang berhak menerima paket tersebut sesuai dengan urutan peringkatnya? (urutan nama menunjukkan peringkat) 
 
 Pilihan Jawaban
 
@@ -101,7 +101,7 @@ E. GHI
 
 ### Pertanyaan 5
 
-<p style='text-align: justify;'>Pernyataan mana di bawah ini yang paling akurat sehubungan dengan informasi yang Anda miliki?</p>
+Pernyataan mana di bawah ini yang paling akurat sehubungan dengan informasi yang Anda miliki?
 
 A. Komentar pribadi jelas berpengaruh dalam proses promosi.
 
@@ -148,7 +148,7 @@ E. Newlife
 
 ### Pertanyaan 8
 
-<p style='text-align: justify;'>Sepatu merek apa yang akan anda pilih bila anda akan meraih pasar untuk golongan menengah yang mengutamakan penampilan?</p>
+Sepatu merek apa yang akan anda pilih bila anda akan meraih pasar untuk golongan menengah yang mengutamakan penampilan?
 
 A. Niko
 
@@ -167,21 +167,21 @@ GANTI HALAMAN
 
 ### Pertanyaan 9
 
-<p style='text-align: justify;'>Dari pernyataan berikut ini, mana yang tidak akan menghasilkan keputusan 'ya' untuk tender sebuah proyek senilai Rp 125.000.000,- ?</p> 
+Dari pernyataan berikut ini, mana yang tidak akan menghasilkan keputusan 'ya' untuk tender sebuah proyek senilai Rp 125.000.000,- ?
 
-<p style='text-align: justify;'>A. Kepala Divisi Pengadaan dan Direktur Operasional menyetujui, demikian juga Direktur Utama.</p>
+A. Kepala Divisi Pengadaan dan Direktur Operasional menyetujui, demikian juga Direktur Utama.
 
-<p style='text-align: justify;'>B. Kepala Divisi Pengadaan tidak menyetujui, namun Direktur Operasional dan Direktur Utama menyetujui.</p>
+B. Kepala Divisi Pengadaan tidak menyetujui, namun Direktur Operasional dan Direktur Utama menyetujui.
 
 C. Direktur Utama dan Kepala Divisi Pengadaan keduanya menyetujui.
 
-**<p style='text-align: justify;'>D. Kepala Divisi Pengadaan dan Direktur Operasional menyetujui, tetapi Direktur Utama tidak setuju.</p>**
+**D. Kepala Divisi Pengadaan dan Direktur Operasional menyetujui, tetapi Direktur Utama tidak setuju.**
 
-<p style='text-align: justify;'>E. Manajer Pembelian, Kepala Divisi Terkait, Kepala Divisi Pengadaan, Direktur Operasional dan Direktur Utama menyetujui.</p>
+E. Manajer Pembelian, Kepala Divisi Terkait, Kepala Divisi Pengadaan, Direktur Operasional dan Direktur Utama menyetujui.
 
 ### Pertanyaan 10
 
-<p style='text-align: justify;'>Untuk tender dengan nilai di atas Rp 500.000.000,- tim yang paling tepat untuk memberikan persetujuan tender tersebut adalah:</p>
+Untuk tender dengan nilai di atas Rp 500.000.000,- tim yang paling tepat untuk memberikan persetujuan tender tersebut adalah:
 
 A. Dir Utama, Dir. Operasional dan Kadiv Pengadaan
 
@@ -199,7 +199,7 @@ GANTI HALAMAN
 
 ### Pertanyaan 11
 
-<p style='text-align: justify;'>Berdasarkan hasil evaluasi di atas, karyawan mana yang akan Anda pilih untuk menyelesaikan sebuah proyek dengan deadline yang ketat dan melibatkan analisis data yang mendalam? Selain itu, hasil proyek tersebut harus dipresentasikan secara lisan pada pertemuan departemen dalam bahasa yang mudah dipahami.</p>
+Berdasarkan hasil evaluasi di atas, karyawan mana yang akan Anda pilih untuk menyelesaikan sebuah proyek dengan deadline yang ketat dan melibatkan analisis data yang mendalam? Selain itu, hasil proyek tersebut harus dipresentasikan secara lisan pada pertemuan departemen dalam bahasa yang mudah dipahami.
 
 **A. Amir** 
 
@@ -213,7 +213,7 @@ E. Erni
 
 ### Pertanyaan 12
 
-<p style='text-align: justify;'>Berdasarkan hasil evaluasi di atas, siapa yang akan yang anda pilih untuk memimpin proyek dengan anggota tim yang banyak dan beragam dan jangka waktu yang lama?</p> 
+Berdasarkan hasil evaluasi di atas, siapa yang akan yang anda pilih untuk memimpin proyek dengan anggota tim yang banyak dan beragam dan jangka waktu yang lama?
 
 A. Amir 
 
@@ -231,17 +231,17 @@ GANTI HALAMAN
 
 ### Pertanyaan 13
 
-<p style='text-align: justify;'>Jika hasil meeting di atas harus Anda sampaikan secara ringkas kepada atasan Anda, mana di antara alternatif berikut ini yang akan Anda pilih sebagai kesimpulan yang Anda ambil?</p> 
+Jika hasil meeting di atas harus Anda sampaikan secara ringkas kepada atasan Anda, mana di antara alternatif berikut ini yang akan Anda pilih sebagai kesimpulan yang Anda ambil?
 
-<p style='text-align: justify;'>A. Perusahaan harus menambah 15 karyawan baru, biaya training akan meningkat, dan ruang kantor diperluas.</p>
+A. Perusahaan harus menambah 15 karyawan baru, biaya training akan meningkat, dan ruang kantor diperluas.
 
 B. Produktivitas dan biaya training akan meningkat.
 
 **C. Ruang kantor mungkin harus diperluas dan produktivitas akan menurun.**
 
-<p style='text-align: justify;'>D. Jalur produksi B harus menambah lima karyawan baru dan produktivitas akan menurun.</p>
+D. Jalur produksi B harus menambah lima karyawan baru dan produktivitas akan menurun.
 
-<p style='text-align: justify;'>E. Jalur produksi A harus menambah lima karyawan baru dan biaya training akan menurun.</p> 
+E. Jalur produksi A harus menambah lima karyawan baru dan biaya training akan menurun.
 
 ![image](kondisi8.png)
 
@@ -281,11 +281,11 @@ GANTI HALAMAN
 GANTI HALAMAN
 ---
 
-<p style='text-align: justify;'>Berdasarkan aturan absensi karyawan dan catatan kehadiran enam bulan terakhir dari tiap-tiap karyawan pada kondisi di atas, jawablah pertanyaan-pertanyaan berikut.</p> 
+Berdasarkan aturan absensi karyawan dan catatan kehadiran enam bulan terakhir dari tiap-tiap karyawan pada kondisi di atas, jawablah pertanyaan-pertanyaan berikut.
 
 ### Pertanyaan 16
 
-<p style='text-align: justify;'>Karyawan mana yang kemungkinan besar dapat Anda andalkan untuk dapat tepat waktu pada meeting di pagi hari?</p> 
+Karyawan mana yang kemungkinan besar dapat Anda andalkan untuk dapat tepat waktu pada meeting di pagi hari?
 
 A. Yuli
 
@@ -299,7 +299,7 @@ E. Tidak dapat ditentukan
 
 ### Pertanyaan 17
 
-<p style='text-align: justify;'>Dengan menggunakan informasi kebijakan dan catatan kehadiran Yudi, situasi mana di bawah ini akan/dapat berkonflik dengan kebijakan cuti?</p>
+Dengan menggunakan informasi kebijakan dan catatan kehadiran Yudi, situasi mana di bawah ini akan/dapat berkonflik dengan kebijakan cuti?
 
 A.	19 April hari ijin pribadi
 
@@ -327,38 +327,38 @@ E. Yuli dan Melisa
 
 ### Pertanyaan 19
 
-<p style='text-align: justify;'>Sebagai seorang manajer penjualan, Anda mengetahui bahwa salah seorang salesman Anda tidak menindak-lanjuti komitmennya pada seorang customer besar, yang dahulu adalah salah satu dari customer Anda ketika masih menjadi salesman. 
+Sebagai seorang manajer penjualan, Anda mengetahui bahwa salah seorang salesman Anda tidak menindak-lanjuti komitmennya pada seorang customer besar, yang dahulu adalah salah satu dari customer Anda ketika masih menjadi salesman. 
 Hari ini, customer tersebut menelpon Anda dan mengeluhkan pelayanan yang kurang memadai dari salesman Anda, terutama ketidakmampuannya untuk memberikan informasi yang diminta secara tepat waktu. 
-Sekarang jam 13.00 dan salesman tersebut sedang keluar makan siang. Sebagai manajer, tindakan apa yang paling tepat Anda lakukan?</p>
+Sekarang jam 13.00 dan salesman tersebut sedang keluar makan siang. Sebagai manajer, tindakan apa yang paling tepat Anda lakukan?
 
-<p style='text-align: justify;'>A. 	Menanyakan kepada customer itu apakah ia ingin memilih seorang salesman baru atau apakah ia akan lebih suka jika Anda sendiri yang bertindak menjadi salesman.</p>
+A. 	Menanyakan kepada customer itu apakah ia ingin memilih seorang salesman baru atau apakah ia akan lebih suka jika Anda sendiri yang bertindak menjadi salesman.
 
-<p style='text-align: justify;'>B. 	Memberitahu customer itu bahwa Anda akan meninggalkan pesan untuk salesman tersebut agar segera menghubunginya.</p>
+B. 	Memberitahu customer itu bahwa Anda akan meninggalkan pesan untuk salesman tersebut agar segera menghubunginya.
 
-**<p style='text-align: justify;'>C. 	Memberitahukan kepada customer itu bahwa kalau bukan salesman itu, Anda sendiri yang akan menghubunginya hari ini juga untuk memberi informasi yang diminta.</p>**
+**C. 	Memberitahukan kepada customer itu bahwa kalau bukan salesman itu, Anda sendiri yang akan menghubunginya hari ini juga untuk memberi informasi yang diminta.**
 
-<p style='text-align: justify;'>D. 	Setuju untuk membantu customer itu dan menjanjikan jawaban dari salesman tersebut pada hari ini sebelum jam 17.00.</p>
+D. 	Setuju untuk membantu customer itu dan menjanjikan jawaban dari salesman tersebut pada hari ini sebelum jam 17.00.
 
-<p style='text-align: justify;'>E. 	Menjelaskan kepada customer bahwa bukanlah tanggungjawab Anda untuk menangani keluhan dan menyarankan agar dia menghubungi customer service.</p>
+E. 	Menjelaskan kepada customer bahwa bukanlah tanggungjawab Anda untuk menangani keluhan dan menyarankan agar dia menghubungi customer service.
  
 GANTI HALAMAN
 ---
 ### Pertanyaan 20
 
-<p style='text-align: justify;'> Berikut ini sebuah cuplikan dari sebuah rapat bisnis. Pak Yunus bertindak sebagai ketua panel, dan Fred, seorang manajer Produksi.
+ Berikut ini sebuah cuplikan dari sebuah rapat bisnis. Pak Yunus bertindak sebagai ketua panel, dan Fred, seorang manajer Produksi.
 Pak Yunus: "…. dan dengan proses kerja yang selaras dan terpadu antar departemen, serta keseragaman persepsi terhadap visi/misi perusahaan, kita dapat memastikan efisiensi dan efektivitas di setiap lini organisasi yang pada akhirnya akan menjamin tercapainya keuntungan perusahaan.
 Fred: "Maaf saya berbeda pendapat, Pak, tapi berdasarkan biaya produksi saat ini, akan sulit untuk bisa balik modal di tahun ini, apalagi meraih keuntungan."
-Arti lain dari pernyataan Fred di atas adalah:</p>
+Arti lain dari pernyataan Fred di atas adalah:
 
-<p style='text-align: justify;'>A. 	Fred ingin menunjukkan bahwa Pak Yunus omong kosong atau mengada-ada.</p>
+A. 	Fred ingin menunjukkan bahwa Pak Yunus omong kosong atau mengada-ada.
 
-**<p style='text-align: justify;'>B. 	Fred berpikir bahwa keuntungan jangka pendek selaras dengan keuntungan jangka panjang.</p>**
+**B. 	Fred berpikir bahwa keuntungan jangka pendek selaras dengan keuntungan jangka panjang.**
 
-<p style='text-align: justify;'>C. 	Fred fokus pada biaya produksi yang dibandingkan dengan harga jual.</p>
+C. 	Fred fokus pada biaya produksi yang dibandingkan dengan harga jual.
 
-<p style='text-align: justify;'>D. 	Fred mengingatkan pada semua bahwa upaya kerjasama antar departemen tidak berjalan sejak tahun lalu.</p>
+D. 	Fred mengingatkan pada semua bahwa upaya kerjasama antar departemen tidak berjalan sejak tahun lalu.
 
-<p style='text-align: justify;'>E. 	Fred berpikir keuntungan perusahaan dan ekspansi itu saling bergantung satu sama lain.</p>
+E. 	Fred berpikir keuntungan perusahaan dan ekspansi itu saling bergantung satu sama lain.
 
 ### Kondisi 10
 
@@ -366,15 +366,15 @@ Arti lain dari pernyataan Fred di atas adalah:</p>
 
 ### Pertanyaan 21
 
-<p style='text-align: justify;'> Asumsikan semua pernyataan di bawah benar, pernyataan mana yang paling jelas menunjukkan ketidak-cocokan rumus di atas untuk mengkalkulasi tingkat efisiensi? </p>
+ Asumsikan semua pernyataan di bawah benar, pernyataan mana yang paling jelas menunjukkan ketidak-cocokan rumus di atas untuk mengkalkulasi tingkat efisiensi? 
  
 A.	Yusti menggunakan kebanyakan waktu di luar kantor.
 
 B.	Melani adalah salesman yang paling efisien di perusahaan.
 
-<p style='text-align: justify;'>C.	Tak seorang pun di antara salesman itu mempunyai tingkat efisiensi yang dapat diterima.</p>
+C.	Tak seorang pun di antara salesman itu mempunyai tingkat efisiensi yang dapat diterima.
 
-<p style='text-align: justify;'>D.	Tingkat efisiensi gabungan untuk Melani dan Amy lebih tinggi daripada Lerbin dan Yusti.</p>
+D.	Tingkat efisiensi gabungan untuk Melani dan Amy lebih tinggi daripada Lerbin dan Yusti.
 
 **E.	Penjualan Amy merupakan 40% total penjualan.**
 
@@ -399,7 +399,7 @@ E. Jumat
  
 ### Pertanyaan 23
 
-<p style='text-align: justify;'>Anda harus ke luar kota pada hari Jumat jam 14.00. Dengan berpegang pada jadwal Anda seperti tercantum pada Kondisi 11 di atas, kapankah waktu terbaik untuk menjadwal-ulang rapat informal dengan staf di kantor?</p>
+Anda harus ke luar kota pada hari Jumat jam 14.00. Dengan berpegang pada jadwal Anda seperti tercantum pada Kondisi 11 di atas, kapankah waktu terbaik untuk menjadwal-ulang rapat informal dengan staf di kantor?
  
 A. Senin jam 14.00
  
@@ -413,7 +413,7 @@ E. Bukan semua di atas
 
 ### Pertanyaan 24
 
-<p style='text-align: justify;'>Salah seorang klien akan berkunjung ke kantor Anda minggu depan. Hari apa yang paling memungkinkan jika Anda harus menggunakan satu hari penuh dengan klien Anda?</p>
+Salah seorang klien akan berkunjung ke kantor Anda minggu depan. Hari apa yang paling memungkinkan jika Anda harus menggunakan satu hari penuh dengan klien Anda?
  
 A. Senin
 
@@ -431,23 +431,23 @@ GANTI HALAMAN
 
 ### Pertanyaan 25
 
-<p style='text-align: justify;'> Perusahaan Anda sedang mempertimbangkan untuk melakukan restrukturisasi, di mana Anda adalah orang yang diminta untuk mempertimbangkan gagasan itu. Dengan data-data sebagaimana grafik-grafik di atas, rekomendasi terbaik apa yang dapat Anda sampaikan? </p>
+ Perusahaan Anda sedang mempertimbangkan untuk melakukan restrukturisasi, di mana Anda adalah orang yang diminta untuk mempertimbangkan gagasan itu. Dengan data-data sebagaimana grafik-grafik di atas, rekomendasi terbaik apa yang dapat Anda sampaikan? 
  
-<p style='text-align: justify;'>A. Upayakan agar persentase nilai penjualan tiap cabang menandingi persentase nilai penjualan kompetitor.</p>
+A. Upayakan agar persentase nilai penjualan tiap cabang menandingi persentase nilai penjualan kompetitor.
 
-<p style='text-align: justify;'>B. Perkuat cabang Jawa Timur dan Jawa Tengah untuk mengambil keuntungan dari lebih kecilnya persentase nilai penjualan kompetitor.</p>
+B. Perkuat cabang Jawa Timur dan Jawa Tengah untuk mengambil keuntungan dari lebih kecilnya persentase nilai penjualan kompetitor.
 
-<p style='text-align: justify;'>C. Mengurangi persentase nilai penjualan Jawa Barat dan DKI agar setara dengan persentase nilai penjualan kompetitor.</p>
+C. Mengurangi persentase nilai penjualan Jawa Barat dan DKI agar setara dengan persentase nilai penjualan kompetitor.
 
-<p style='text-align: justify;'>D. Perusahaan tidak perlu melakukan restrukturisasi.</p>
+D. Perusahaan tidak perlu melakukan restrukturisasi.
 
-**<p style='text-align: justify;'>E. Jangan sarankan apapun; sampai Anda memperoleh lebih banyak informasi tentang hal-hal yang berhubungan dengan restrukturisasi.</p>**
+**E. Jangan sarankan apapun; sampai Anda memperoleh lebih banyak informasi tentang hal-hal yang berhubungan dengan restrukturisasi.**
 
 ![image](kondisi13.png)
 
 ### Pertanyaan 26
 
-<p style='text-align: justify;'>Siapakah yang Anda asumsikan akan paling jarang mengalami masalah dalam menjalankan pekerjaannya secara keseluruhan?</p>
+Siapakah yang Anda asumsikan akan paling jarang mengalami masalah dalam menjalankan pekerjaannya secara keseluruhan?
  
 A. Ari
 
@@ -461,7 +461,7 @@ D. Dina
 
 ### Pertanyaan 27
 
-<p style='text-align: justify;'>Siapakah yang paling mungkin mengalami hal berikut ini: mampu bekerja dalam kelompok yang anggotanya berasal dari beragam fungsi, namun akan mengalami kesulitan ketika terlibat pada beberapa kegiatan secara bersamaan?</p>
+Siapakah yang paling mungkin mengalami hal berikut ini: mampu bekerja dalam kelompok yang anggotanya berasal dari beragam fungsi, namun akan mengalami kesulitan ketika terlibat pada beberapa kegiatan secara bersamaan?
 
 A. Ari
 			
@@ -479,7 +479,7 @@ GANTI HALAMAN
 
 ### Pertanyaan 28
 
-<p style='text-align: justify;'>Berdasarkan tabel rencana pemesanan di atas, Anda mengidentifikasi sebuah pemesanan material yang akan menimbulkan problem produksi. Material apakah yang dimaksud?</p>
+Berdasarkan tabel rencana pemesanan di atas, Anda mengidentifikasi sebuah pemesanan material yang akan menimbulkan problem produksi. Material apakah yang dimaksud?
 
 A. Baja Gulung
 
@@ -493,7 +493,7 @@ E. Pipa Aluminium
 
 ### Pertanyaan 29
 
-<p style='text-align: justify;'>Berdasarkan data diatas Anda menyadari bahwa ada dokumen penagihan untuk salah satu item yang dipesan Karno akan dipertanyakan oleh bagian Keuangan. Item mana yang memiliki kemungkinan terbesar akan dipertanyakan?</p>
+Berdasarkan data diatas Anda menyadari bahwa ada dokumen penagihan untuk salah satu item yang dipesan Karno akan dipertanyakan oleh bagian Keuangan. Item mana yang memiliki kemungkinan terbesar akan dipertanyakan?
 
 A. Baja Gulung
 
@@ -511,7 +511,7 @@ GANTI HALAMAN
 
 ### Pertanyaan 30
 
-<p style='text-align: justify;'>Meskipun alokasi waktu Meri pada proyek C, Tomi pada proyek B, dan Sari pada proyek A sama-sama sebesar 10 jam/minggu, tetapi: </p>
+Meskipun alokasi waktu Meri pada proyek C, Tomi pada proyek B, dan Sari pada proyek A sama-sama sebesar 10 jam/minggu, tetapi: 
 
 A. Kontribusi Meri terhadap proyek C lebih tinggi dari kontribusi Tomi pada proyek B.
 
@@ -526,7 +526,7 @@ E. Semua jawaban di atas salah.
 
 ### Pertanyaan 31
 
-<p style='text-align: justify;'>Siapakah yang akan paling memberikan dampak terbesar terhadap seluruh proyek ketika dia tidak masuk?</p>
+Siapakah yang akan paling memberikan dampak terbesar terhadap seluruh proyek ketika dia tidak masuk?
 
 A. Meri
 
@@ -542,7 +542,7 @@ E. Tomi atau Sari
 
 ### Pertanyaan 32
 
-<p style='text-align: justify;'>Berdasarkan grafik dan tabel di atas, tentukan mana di antara pernyataan-pernyataan berikut yang salah.</p>
+Berdasarkan grafik dan tabel di atas, tentukan mana di antara pernyataan-pernyataan berikut yang salah.
  
 A. Pada tahun 2000, nilai keuntungan divisi A adalah Rp 650.000.000,-
 
@@ -574,7 +574,7 @@ E. Mouse Logik, Komputer BIM, dan Program SIMKEU
 	
 ### Pertanyaan 34
 
-<p style='text-align: justify;'>Jika komputer BIM tidak dijadikan satu dengan printer Conan, produk apa saja yang bisa digabung dengan komputer BIM?</p>
+Jika komputer BIM tidak dijadikan satu dengan printer Conan, produk apa saja yang bisa digabung dengan komputer BIM?
  
 A. Mouse Logik dan Monitor GL
 
@@ -590,17 +590,17 @@ E. Bukan semua jawaban di atas
 
 ### Pertanyaan 35
 
-<p style='text-align: justify;'>Kedua perusahaan di atas menawarkan untuk memberikan pelayanan mesin fotokopi dengan kesepakatan service seperti di atas. Mesin fotokopi yang mereka tawarkan berasal dari merek dan tipe yang sama, namun pelayanannya yang berbeda. Jika Anda memilih perusahaan fotokopi BERSAUDARA, alasan apa yang mendasari keputusan tersebut?</p>
+Kedua perusahaan di atas menawarkan untuk memberikan pelayanan mesin fotokopi dengan kesepakatan service seperti di atas. Mesin fotokopi yang mereka tawarkan berasal dari merek dan tipe yang sama, namun pelayanannya yang berbeda. Jika Anda memilih perusahaan fotokopi BERSAUDARA, alasan apa yang mendasari keputusan tersebut?
  
-<p style='text-align: justify;'>A. Perusahaan BERSAUDARA tidak menarik biaya perjalanan untuk 5 kilometer pertama.</p>
+A. Perusahaan BERSAUDARA tidak menarik biaya perjalanan untuk 5 kilometer pertama.
 
 B.	Jenis mesin fotokopi lebih penting daripada biaya service.
 
-<p style='text-align: justify;'>C. Biaya sifatnya kritikal dan perusahaan BERSAUDARA akan melayani pembelanjaan besar.</p>
+C. Biaya sifatnya kritikal dan perusahaan BERSAUDARA akan melayani pembelanjaan besar.
 
-<p style='text-align: justify;'>D. Perusahaan Anda tidak berencana membeli sebuah mesin fotokopi sampai layanan ini tidak berjalan lancar; sehingga garansi penggantian spare-parts menjadi penting.</p>
+D. Perusahaan Anda tidak berencana membeli sebuah mesin fotokopi sampai layanan ini tidak berjalan lancar; sehingga garansi penggantian spare-parts menjadi penting.
 
-**<p style='text-align: justify;'>E. Anda merasa lebih cocok mempunyai kontrak dengan perusahaan yang sudah mapan.</p>**
+**E. Anda merasa lebih cocok mempunyai kontrak dengan perusahaan yang sudah mapan.**
 
 GANTI HALAMAN
 ---
@@ -608,7 +608,7 @@ GANTI HALAMAN
 
 ### Pertanyaan 36
 
-<p style='text-align: justify;'>Perusahaan Anda mengadakan program pelatihan manajemen madya. Semua supervisor yang berminat mengikuti program tersebut diharuskan mencapai nilai minimal pada sejumlah tes: nilai 40 untuk Ketrampilan Verbal, nilai 45 untuk Pemahaman Bacaan, dan nilai 30 untuk Penalaran Matematika. Siapa di antara supervisor di bawah ini yang memenuhi syarat untuk mengikuti program pelatihan tersebut?</p>
+Perusahaan Anda mengadakan program pelatihan manajemen madya. Semua supervisor yang berminat mengikuti program tersebut diharuskan mencapai nilai minimal pada sejumlah tes: nilai 40 untuk Ketrampilan Verbal, nilai 45 untuk Pemahaman Bacaan, dan nilai 30 untuk Penalaran Matematika. Siapa di antara supervisor di bawah ini yang memenuhi syarat untuk mengikuti program pelatihan tersebut?
  
 A. Budi, Karmila
 
@@ -622,8 +622,8 @@ E. Budi, Karno, Rudi
 
 ### Pertanyaan 37
 
-<p style='text-align: justify;'>Ada sejumlah inisiatif proyek baru akan dilakukan dalam waktu 12 bulan mendatang. Untuk bisa terlibat dalam proyek tersebut, para supervisor harus mencapai nilai 25, 23, dan 35 berturut-turut pada tes Penalaran Matematika, Ketrampilan Verbal dan Pemahaman Bacaan. 
-Bagi supervisor yang dua dari tiga nilai tersebut di atas masih di bawah  persyaratan diberi kesempatan untuk mengikuti pelatihan khusus. Siapa saja yang punya kesempatan untuk mengikuti pelatihan khusus tersebut?</p>
+Ada sejumlah inisiatif proyek baru akan dilakukan dalam waktu 12 bulan mendatang. Untuk bisa terlibat dalam proyek tersebut, para supervisor harus mencapai nilai 25, 23, dan 35 berturut-turut pada tes Penalaran Matematika, Ketrampilan Verbal dan Pemahaman Bacaan. 
+Bagi supervisor yang dua dari tiga nilai tersebut di atas masih di bawah  persyaratan diberi kesempatan untuk mengikuti pelatihan khusus. Siapa saja yang punya kesempatan untuk mengikuti pelatihan khusus tersebut?
  
 A. Budi saja
 
@@ -641,7 +641,7 @@ GANTI HALAMAN
 
 ### Pertanyaan 38
 
-<p style='text-align: justify;'>Manakah alasan keluar yang mengindikasikan ketidakmampuan orang untuk menetapkan prioritas dan mengorganisasikan tugas-tugas? </p>
+Manakah alasan keluar yang mengindikasikan ketidakmampuan orang untuk menetapkan prioritas dan mengorganisasikan tugas-tugas? 
 
 A.  a
 
@@ -669,20 +669,20 @@ E. a dan b
 
 ### Pertanyaan 40
 
-<p style='text-align: justify;'>Anda adalah manager yang bertanggungjawab untuk pengadaan bahan mentah untuk produksi; dan salah satu tugas utamanya adalah mengevaluasi tawaran supplier setiap tahunnya. Tiga minggu yang lalu supervisor Anda pensiun dan digantikan oleh Pundi, seorang supervisor muda yang berkarir pesat yang berasal dari perusahaan kompetitor terbesar. 
+Anda adalah manager yang bertanggungjawab untuk pengadaan bahan mentah untuk produksi; dan salah satu tugas utamanya adalah mengevaluasi tawaran supplier setiap tahunnya. Tiga minggu yang lalu supervisor Anda pensiun dan digantikan oleh Pundi, seorang supervisor muda yang berkarir pesat yang berasal dari perusahaan kompetitor terbesar. 
 Hubungan Anda dengan Pundi belum cukup harmonis, dan pada suatu hari, mendekati akhir proses evaluasi tahunan, Pundi menaruh kontrak dengan supplier Bina Utama, yang sudah dia tandatangani, di meja Anda, sambil memberitahu dia telah memutuskan untuk memilih supplier tersebut.
 Adapun alasannya karena dia pernah bekerja sama dengan Bina Utama di masa lalu dan benar-benar mempercayai produk dan servicenya, sambil menambahkan bahwa dia juga tahu kalau Bina Utama merupakan salah satu supplier yang sedang Anda pertimbangkan. 
-Anda tersinggung karena bukan haknya untuk memutuskan hal tersebut, namun Anda tidak ingin menambah jarak lebih jauh lagi. Langkah apa terbaik untuk Anda lakukan?</p>
+Anda tersinggung karena bukan haknya untuk memutuskan hal tersebut, namun Anda tidak ingin menambah jarak lebih jauh lagi. Langkah apa terbaik untuk Anda lakukan?
 
 A. Menyetujui keputusan Pundi dan kontrak itu berlaku.
 
-**<p style='text-align: justify;'>B. Kontrak itu tetap berlaku, namun informasikan kepada manajemen yang lebih tinggi mengenai adanya pelanggaran prosedur.</p>**
+**B. Kontrak itu tetap berlaku, namun informasikan kepada manajemen yang lebih tinggi mengenai adanya pelanggaran prosedur.**
 
-<p style='text-align: justify;'>C. Hubungi Bina Utama, dan jelaskan bahwa kontrak itu tidak sah namun mereka masih punya kesempatan untuk mendapatkan yang sah.</p>
+C. Hubungi Bina Utama, dan jelaskan bahwa kontrak itu tidak sah namun mereka masih punya kesempatan untuk mendapatkan yang sah.
 
-<p style='text-align: justify;'>D. Jelaskan proses evaluasi tawaran kepada Pundi, dan biarkan dia memutuskan apakah kontrak itu masih berlaku atau tidak.</p>
+D. Jelaskan proses evaluasi tawaran kepada Pundi, dan biarkan dia memutuskan apakah kontrak itu masih berlaku atau tidak.
 
-<p style='text-align: justify;'>E. Lakukan proses evaluasi tawaran seperti biasa, dan abaikan kontrak yang dibuat oleh Pundi.</p>
+E. Lakukan proses evaluasi tawaran seperti biasa, dan abaikan kontrak yang dibuat oleh Pundi.
 
 GANTI HALAMAN
 ---
@@ -750,20 +750,20 @@ GANTI HALAMAN
 
 ### Pertanyaan 45
 
-<p style='text-align: justify;'>Anda melihat dua orang bawahan Bu Yati sedang berdebat seru, yang semakin lama meningkat menjadi pertengkaran mulut yang kasar dan mengganggu suasana kerja di sekitarnya, meskipun beberapa saat kemudian perdebatan tersebut berakhir ketika salah seorang bergegas menyingkir.
+Anda melihat dua orang bawahan Bu Yati sedang berdebat seru, yang semakin lama meningkat menjadi pertengkaran mulut yang kasar dan mengganggu suasana kerja di sekitarnya, meskipun beberapa saat kemudian perdebatan tersebut berakhir ketika salah seorang bergegas menyingkir.
 Di lain pihak, pada waktu yang bersamaan, di sekitar tempat perdebatan terjadi, Anda melihat Bu Yati sedang berbicara dengan seorang pelanggan; dan setelah pelanggan itu pergi, Bu Yati kembali ke ruang kerjanya tanpa melakukan apa-apa terhadap kedua bawahannya yang berdebat tadi. 
 Anda merasa kedua karyawan tersebut harus ditegur, karena berdebat dan bertengkar mulut di hadapan pelanggan adalah hal yang tabu di perusahaan. Pak Farid, sebagai atasan Anda dan Bu Yati, keluar kantor hari ini; dan Anda sendiri harus menemui pelanggan yang 15 menit lagi akan tiba. 
-Jika Anda ingin memastikan kedua karyawan itu ditegur, bagaimana cara yang paling diplomatis untuk melakukannya, mengingat Anda dan Bu Yati adalah kolega yang setara kedudukannya?</p>
+Jika Anda ingin memastikan kedua karyawan itu ditegur, bagaimana cara yang paling diplomatis untuk melakukannya, mengingat Anda dan Bu Yati adalah kolega yang setara kedudukannya?
 
-<p style='text-align: justify;'>A. Dekati karyawan yang masih di situ dan dengan perlahan beri teguran.</p>
+A. Dekati karyawan yang masih di situ dan dengan perlahan beri teguran.
 
-<p style='text-align: justify;'>B. Panggil kedua bawahan Bu Yati tersebut ke ruangan Anda setelah Anda berbicara dengan klien Anda.</p>
+B. Panggil kedua bawahan Bu Yati tersebut ke ruangan Anda setelah Anda berbicara dengan klien Anda.
 
-**<p style='text-align: justify;'>C. Beritahu Pak Farid mengenai kekhawatiran Anda dengan harapan Beliau akan membicarakannya secara serius dengan Bu Yati.</p>**
+**C. Beritahu Pak Farid mengenai kekhawatiran Anda dengan harapan Beliau akan membicarakannya secara serius dengan Bu Yati.**
 
 D. Dekati Bu Yati dan sarankan agar dia mendisiplin karyawannya.
 
-<p style='text-align: justify;'>E. Selesaikan urusan dengan pelanggan Anda terlebih dahulu baru kemudian memikirkan rencana tindakan sehubungan dengan kasus perdebatan tadi.</p>
+E. Selesaikan urusan dengan pelanggan Anda terlebih dahulu baru kemudian memikirkan rencana tindakan sehubungan dengan kasus perdebatan tadi.
 
 
 
